@@ -7,7 +7,7 @@ const quizConfig = {
     pageTitle: "заковат",
 
     colors: {
-        primary: "#7c3aed",
+        primary: "#190eed",
         secondary: "#2563eb"
     },
 
